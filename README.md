@@ -10,5 +10,4 @@ I speed-taught myself .NET and C# in order to land my first serious programming 
 
 Lastly, I believe in compassion before judgement, and would like to think I practice it as much as possible.
 
-I have a blog and website at [aashishkoirala.com](https://aashishkoirala.com).
-I am on [LinkedIn](https://linkedin.com/in/aashishkoirala/). You can also grab my [resume here](/resume.pdf). I am currently mostly active on [Threads](https://www.threads.net/@aashishkoirala).
+I have a blog and website at [aashishkoirala.com](https://aashishkoirala.com). I am on [LinkedIn](https://linkedin.com/in/aashishkoirala/). I am currently mostly active on [Threads](https://www.threads.net/@aashishkoirala).
